@@ -18,3 +18,4 @@ Once the data is collected, folders will be created in the specified path(Make s
 The data that i have collected myself is in too many distinct files to be uploaded on github
 
 The final block of the code runs the final apllication, this only works once the data is collected and the model is trained.
+action files are the weights that i have obtained for the models i have trained use them if you wish.
